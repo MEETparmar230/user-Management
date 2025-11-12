@@ -56,6 +56,7 @@ npm run dev
 ---
 
 ## 🧑‍🎓 Author
+
 Meet Parmar
 
 📧 meetparmar2362004@gmail.com
